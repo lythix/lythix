@@ -42,9 +42,3 @@ Here are some ideas to get you started:
   - Gamer
   - Keto/LCHF/Carinvore/Faster 
   - Loosely coupled design skills. 
-
-I run #PerthHackers OS meetup.
-
-POSH (Perth Open Source Hackers) has moved to PLUG (Perth Linux User Group)
-
-https://www.meetup.com/Perth-Linux-Users-Group-PLUG
